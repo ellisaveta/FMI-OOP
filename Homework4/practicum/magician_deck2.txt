@@ -1,0 +1,5 @@
+MaDeck|4|1|2|1
+Da gician|Tate wizard.|2|20|230
+Ma|Inflio your opponent equal to its ATK.|45|TRAP
+Swling Light|Youclare an attack.|23|SPELL
+Timan|Your opponent canno Magic Cards|3|120|6|8|SPELL
